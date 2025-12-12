@@ -56,7 +56,7 @@ body {
 
 <h1>**MINH QUANG NHAT LE**</h1>
 
-<p>`r format(Sys.time(), '%d %B, %Y')`</p>
+<p>11 December, 2025</p>
 
 <img src="C:\Users\lequa\Downloads\1731822503085.jpg" alt="Quang Le" style="width:300px;height: 300px;"/>
 
