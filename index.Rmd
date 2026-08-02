@@ -1,6 +1,6 @@
 ---
-title: "*University of Houston Downtown (UHD)*"
-author: "*Minh Le*"
+title: "*DAYTON ISD*"
+author: "*MINH LE - HIGH SCHOOL MATH TEACHER*"
 output: 
   html_document:
     keep_md: true
@@ -11,14 +11,14 @@ output:
       smooth_scroll: true
 ---
 
-<img src="C:\Users\lequa\Downloads\commerce.jpg" alt="Cover Photo" style="width:100%; height: 300px;"/>
+<img src="C:\Users\lequa\Downloads\daytonhs.png" alt="Cover Photo" style="width:100%; height: 300px;"/>
 
 ```{=html}
 <style>
 .centered {
   text-align: center;
   font-family: "Times New Roman", Times, serif;
-  color: blue;
+  color: purple;
 }
 body {
 
@@ -45,16 +45,16 @@ body {
 </style>
 
 <div class="navbar"> 
-  <a href="https://quangnhatm1.github.io">About Me</a>
-  <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-projects/">Projects</a>
-  <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-QA/">Q&A</a>
+  <a href="https://minhlemath2k3.github.io">About Me</a>
+  <a href="https://minhlemath2k3.github.io/https-minhlemath2k3.github.io-projects/">Education and Experience</a>
+  <a href="https://minhlemath2k3.github.io/https-minhlemath2k3.github.io-QA/">Projects</a>
       </div>
 ```
 
 ::: centered
 ***WELCOME TO MY PROFILE***
 
-<h1>**MINH QUANG NHAT LE**</h1>
+<h1>**MINH Q. LE**</h1>
 
 <p>`r format(Sys.time(), '%d %B, %Y')`</p>
 
@@ -63,154 +63,86 @@ body {
 *Portrait of Minh Le*
 :::
 
-<u>Note:</u> This page is only for my profile, serving as my digital biography.
+<u>***Note:***</u> This page is only for my profile, serving as my digital biography.
 
-# <u>I. Summary</u>
+***If you would like to view my education and experience, please visit <u>Education and Experience Tab </u> next to <u>About Me Tab.</u>***
 
-My name is **Minh Le**, you can also call me Quang (my old name). I am a junior student at the *University of Houston - Downtown (UHD)*, majoring in *Mathematics and Applied Statistics, minoring in Actuarial Mathematics*. I am also an active member of the *UHD [Scholars Academy](https://www.uhd.edu/academics/sciences/scholars/)*. 
+# ***I. Summary***
 
-# <u>II. Education</u>
+My name is **Minh Le**. I am math teacher at *[Dayton High School (Dayton ISD)](https://dhs.daytonisd.net/)*. I am also recent graduate from *University of Houston Downtown* (Class of 2026!), majoring in *Applied Statistics, minoring in Mathematics*. I am also a former member of the *UHD [Scholars Academy](https://www.uhd.edu/academics/sciences/scholars/)* and *UHD [Honors Program](https://www.uhd.edu/provost/honors-program/index.aspx)*. I am proud of being a part of Bronco family this year! I am so excited to meet all of my sophomore, juniors, and seniors in my classroom!
 
-## **1. University of Houston Downtown (UHD)**
+# ***II. My passion***
 
-*Started from January 2025 to December 2026 (expected).*
+I love math because it is like solving a puzzle. Every problem has clues, and finding the answer feels like cracking a code. I became a high school math teacher because I want students to feel that same excitement, let students feel math is not a boring subject, it can be applied everywhere in daily life. Math is not just numbers on a page, it helps us understand money, sports, science, and even art. My goal is to show every student that math is all around them, and that anyone can learn it, one step at a time.
 
-***Bachelor of Science in Mathematics & Applied Statistics, minoring in Actuarial Mathematics.***
+# ***III. My expectations***
 
-```{=html}
-<span style="color: red; font-weight: bold; font-style: italic; font-size: 20pt">Courses at UHD</span>
-```
+In our classroom, I expect students to try their best, even when a problem feels hard! Mistakes are okay. Why? Because they help us learn. I ask students to listen carefully, ask questions when they are confused, and be kind to their classmates. I expect the same from myself: to explain things clearly, be patient, and make sure every student feels safe asking for help!
 
-<u>Note: All of the courses I am taking at UHD are now in progress in the summer and fall 2025.</u>
+# ***IV. My favorite math topics***
 
-| **Course Number** | **Course Title** | **Term** | **Grade** | **Credits** |
-|---------------|---------------|---------------|---------------|---------------|
-| CS 1411 | Intro to Python | Fall 2025 | A | 4.00 |
-| MATH 3301 | Differential Equations | Fall 2025 | A | 3.00 |
-| MATH 3302 | Prob and Stats | Fall 2025 | A | 3.00 |
-| STAT 4397 | Stat Computing | Fall 2025 | A | 3.00 |
-| TCOM 3302 | Technical Writing | Fall 2025 | A | 3.00 |
-| DATA 2401 | Data Science I | Spring 2025 | A | 4.00 |
-| MATH 2307 | Linear Algebra | Spring 2025 | A | 3.00 |
-| MATH 2402 | Calculus II | Spring 2025 | A | 4.00 |
-| STAT 3311 | Stat Analysis for Nat Science | Spring 2025 | A | 3.00 |
-| UHD 2303 | University Seminar - Sciences | Spring 2025 | A | 3.00 |
+My favorite topics are **Algebra** and **Statistics**.
 
-## **2. Houston Community College System (HCCS)**
+- **Algebra** is something like a puzzle where letters stand in for missing numbers. I especially enjoy teaching systems of equations, because there are two clever ways to solve them, substitution and elimination like choosing two different paths to the same treasure. This is just an example why I like Algebra, there are thousands of reasons I love doing Algebra. Remember, if you are doing well in Algebra, you will beat Calculus very fast!
 
-*Started from August 2023 to December 2024.*
+- **Statistics** is about looking at real information from the data around our life, sports scores, student data, or survey results, and finding patterns hiding inside the numbers. Statistics is a branch of applied mathematics! 
 
-***A.A Business Administration & Management - Highest Honors (GPA: 4.0).***
+- I also enjoy **Geometry**, because it connects math to shapes and the
+  world we see every day.
 
-```{=html}
-<span style="color: red; font-weight: bold; font-style: italic; font-size: 20pt">Courses at HCCS</span>
-```
+# ***V. My goals for this school year***
 
-<u>This is all of my courses that I successfully taken at HCCS:</u>
+This year, my goals are:
 
-| **Course Number** | **Course Title** | **Term** | **Grade** | **Credits** |
-|---------------|---------------|---------------|---------------|---------------|
-| ARTS 1303 | Art History I | Fall 2024 | A | 3.00 |
-| BCIS 1305 | Business Computer Applications | Fall 2024 | A | 3.00 |
-| BUSI 2305 | Business Statistics | Fall 2024 | A | 3.00 |
-| ENGL 2327 | American Literature I | Fall 2024 | A | 3.00 |
-| MATH 1324 | Mathematics for Bus. & Soc. Sci. | Fall 2024 | A | 3.00 |
-| ACCT 2302 | Prin of Managerial Accounting | Summer 2024 | A | 3.00 |
-| ASTR 1303 | Stars and Galaxies | Summer 2024 | A | 3.00 |
-| CHEM 1311 | General Chem I | Summer 2024 | A | 3.00 |
-| CHEM 1412 | General Chemistry II | Summer 2024 | A | 4.00 |
-| MATH 2413 | Calculus I | Summer 2024 | A | 4.00 |
-| PHIL 2306 | Intro to Ethics | Summer 2024 | A | 3.00 |
-| ACCT 2301 | Prin of Financial Accounting | Spring 2024 | A | 3.00 |
-| ECON 2302 | Principles of Microeconomics | Spring 2024 | A | 3.00 |
-| ENGL 1302 | Composition II | Spring 2024 | A | 3.00 |
-| GOVT 2306 | Texas Government | Spring 2024 | A | 3.00 |
-| HIST 1301 | United States History I | Spring 2024 | A | 3.00 |
-| HIST 1302 | United States History II | Spring 2024 | A | 3.00 |
-| ECON 2301 | Principles of Macroeconomics | Fall 2023 | A | 3.00 |
-| EDUC 1300 | Learning Framework | Fall 2023 | A | 3.00 |
-| ENGL 1301 | Composition I | Fall 2023 | A | 3.00 |
-| GOVT 2305 | Federal Government | Fall 2023 | A | 3.00 |
-| PSYC 2301 | General Psychology | Fall 2023 | A | 3.00 |
+1. Help every student build confidence in math, so mistakes feel like a
+   normal part of learning instead of something to be afraid of.
+   
+2. Connect math to real life, so students see why it actually matters
+   outside the classroom.
+   
+3. Make sure every student - no matter how they learn best - gets the
+   support they need to succeed.
+   
+4. Build a classroom where students feel comfortable asking questions and
+   helping one another.
 
-# <u>III. Professional Experience</u>
+   
+# ***VI. My hobbies and interesting***
 
--   ***Project Assistant at Marilyn Davies College of Business, University of Houston Downtown - Houston, TX*** (August 2025 – Present)
+***1. What I like to do on weekends?*** 
 
-    -   Assist in gathering and organizing data and information to support the college’s academic and operational activities.
-    -   Assist in developing annual internal college reports.
-    -   Other duties as assigned.
+- I like going back to Houston to enjoy the vibes in Westchase area. I usually go to Asian restaurant with my family for dinner or lunch, especially in weekends. I also sometimes go to cinema and shopping mall in Memorial City.
 
--   ***Supplemental Instructional Leader, University of Houston Downtown - Houston, TX*** (January 2025 – August 2025)
+***2. What are my favorite television series?*** 
 
-    -   Participate in all class meetings, ensuring comprehensive understanding of homework, reading assignments, and projects.
-    -   Lead at least two 60-minute small group study sessions per week throughout the semester.
-    -   Develop and plan group activities, exam reviews, and worksheets to enhance student learning.
-    -   Conduct additional SI sessions as needed, especially before quizzes and exams.
+- I love to watching (gameshows) Masterchef, The Voice, The Floor, The Amazing Race, 25 Words or Less,...
 
--   ***Recreational Sports Assistant - Intern, Houston Community College – Houston, TX*** (September 2024 – January 2025)
+- I enjoy watching (tv series) Reacher, Steal, The Capture,...
 
-    -   Compiled, analyzed data, and utilized Pivot Tables to generate comprehensive dashboards for the Recreational Sports Department related to student participation, program outcomes, and other relevant metrics.
-    -   Proposed departmental standard operations, including creating templates, forms, and tracking systems.
-    -   Collaborated with colleagues to identify areas for process improvement and implement solutions.
-    -   Executed general office duties such as answering phones, responding to emails, and managing departmental records.
+***3. Some fun fact about me?*** 
 
--   ***Math and ESL Tutor, Duc Dinh Center – Houston, TX*** (August 2023- December 2023)
+- I just arrived the U.S 3 years ago (08/2023) for studying. I completed my bachelor in just around 2.8 years, which I cannot believe it. I also worked part-time jobs during studying for my degree.
 
-    -   Managed large-sized classes maintaining a positive and productive learning environment.
-    -   Supervised classroom behavior effectively and ensured that all students were engaged and focused during tutoring sessions.
-    -   Focused on students with poor math knowledge and new Vietnamese students for both ESL and Math subjects.
+- I am a head of household for my family right now. Before arriving the U.S, I was still dependent on my parents so much. However, it is changing significant right now!
 
-# <u>IV. Projects</u>
+- All of my jobs I got, I never have anyone refer it to me, or know it through a recruiter. I do not usually make a network with a hiring manager, so I only got jobs based on my skills, experiences, and lucky things! I am so proud about it!
 
--   ***Houston Community College Project, Houston Community College – Houston, TX*** (September 2024 – January 2025)
-    -   Generated, automated, and implemented comprehensive standard operating procedures to effectively capture and engage student participants for the Recreational Sports Department.
-    -   Conducted in-depth data analysis for the department, identifying key performance indicators and improving reporting accuracy.
-    -   Optimized departmental database and tracked student trends to forecast future departmental goals.
 
-# <u>V. Volunteer Service</u>
 
--   ***HCC International Student Ambassador – Houston Community College – Houston, TX*** (June 2024 – January 2025)
-    -   Coordinated and organized orientation sessions for new international students.
-    -   Prepared information and resources to help international students access academic and support services.
--   ***Houston Food Bank Volunteer – Houston Food Bank - Houston, TX*** (March 2024 - Present)
-    -   Perform inspection and sort donated food items to ensure they are safe and suitable for distribution.
-    -   Support on-site programs by helping clients navigate the distribution process, answering questions as needed.
+# ***VII. My contact information***
 
-# <u>VI. Skills</u>
+-   **Personal Email:** [***quangnhatminh**\*\*\*\@gmail.com](mailto:lequangnhatminh946@gmail.com){.email}
+-   **Workplace Email:** [*m*\*\*\@daytonisd.net](mailto:minh.le@daytonisd.net){.email}
+-   **LinkedIn:** [Minh Le](https://www.linkedin.com/in/minh-quang-le1/)
 
--   *Technical Skills:*
-    -   **Office Tools:** Advanced in VBA Excel, PowerPoint, Word, Adobe Reader, Access, Forms, Power BI, Outlook.
-    -   **Programming:** Familiar with Python, R, SQL.
--   *Language Skills:*
-    -   Fluent in Vietnamese and English.
-    -   Proficient in collaborative problem solving, communication, and decision - making process.
+# ***VIII. My operation hours***
 
-# <u>VII. Memberships and Awards</u>
+- **In class hours (except weekends and holidays): ** *6:45 AM - 3:15 PM*
 
--   **Peer-Led Team Learning Training DOED** (May 2025)
--   **STEM Scholars Academy Scholarship** (January 2025)
--   **Member of Society of Actuary (SOA)** (June 2024)
--   **Phi Theta Kappa Membership and Certifications** (March 2024)
--   **Microsoft Office Specialist certifications (Excel, Word)** (June 2022)
+***I do not check my email from 7:00 PM to 6:00 AM every working days and weekends/holidays. Please send me email as soon as possible if you have any questions or trouble!*** 
 
-# <u>VIII. Career Objectives</u>
 
--   To secure two internships in the actuarial field or research field during each summer semester
--   To pass all three preliminary exams from the Society of Actuaries (SOA): ***Exam FM, Exam P, and Exam FAM***
--   To join the Casualty Actuarial Society (CAS) and become a fully qualified actuary
 
-# <u>IX. Contact Information</u>
-
--   **Personal Email:** [lequangnhatminh\*\*\*\@gmail.com](mailto:lequangnhatminh946@gmail.com){.email}
--   **Workplace Email:** [le\*\*\@uhd.edu](mailto:leq@uhd.edu){.email}
--   **LinkedIn:** [Quang Le](https://www.linkedin.com/in/minh-quang-le1/)
-
-::: centered
-<h3>**QR CODE FOR THIS PAGE!**</h3>
-
-<img src="C:\Users\lequa\Downloads\frame.png" alt="Quang Le" style="width:300px;height: 300px;"/>
-:::
 
 ```{=html}
 <div style="position: fixed; right: 20px; bottom: 20px; background-color: #008cba; color: white; padding: 10px 20px; border-radius: 5px; text-align: center; font-size: 13pt; text-decoration: none;">
@@ -221,12 +153,11 @@ My name is **Minh Le**, you can also call me Quang (my old name). I am a junior 
 
 ```{=html}
 <div style="background-color: black; display: flex; align-items: center; padding: 10px;">
-    <a href="https://www.uhd.edu" style="margin-right: auto;">
-        <img src="C:\Users\lequa\Downloads\UHD-Logo-Corporate.png" alt="UHD Logo" style="height: 50px; wide: 50 px">
+    <a href="https://www.daytonisd.net/" style="margin-right: auto;">
+        <img src="C:\Users\lequa\Downloads\header_logo_img_626b26oj1k6m4lecieh.png" alt="UHD Logo" style="height: 50px; wide: 50 px">
     </a>
-    <p style="color: white; margin: 5;">&copy; 2025 Quang Le | 
-        <a href="https://www.uhd.edu" style="color: white; text-decoration: none;">University of Houston - Downtown</a> | 
-        <a href="https://www.uhd.edu/sssl/supplemental-instruction/index.aspx" style="color: white; text-decoration: none;">Supplemental Instruction Program|</a>
+    <p style="color: white; margin: 5;">&copy; 2026 Minh Le | 
+        <a href="https://www.daytonisd.net/" style="color: white; text-decoration: none;">DAYTON ISD|</a>
     </p>
 </div>
 ```
